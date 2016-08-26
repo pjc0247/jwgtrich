@@ -1,6 +1,8 @@
 # jwgtrich
 
-jwwvg rich
+jwwvg rich<br>
+<br>
+빙빙돌지않고 아래로만 내려가는 프로그램
 
 ```cpp
 socket s;
